@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/bi.m3u
+#EXT-X-SUB-URL https://ghproxy.com/https://raw.githubusercontent.com/wy357251/KAITV-IOS/main/KAITV-IOS-Game.m3u
 
 #EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/df9bb92bae388740db3869a4e2c76448c01e1d0c.jpg" group-title="游戏赛事",哔哩哔哩王者荣耀赛事
 http://live.aptvapp.com/live/bilibili/21144080?line=first
