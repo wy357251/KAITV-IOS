@@ -1,0 +1,11 @@
+KAITV提供接口，WX:TYTXD-ZK
+#EXTINF:0 group-title="电影"，惊险刺激,http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
+绝色神偷,https://vip.lz-cdn1.com/20220411/1636_73186731/index.m3u8
+原始武器,https://vip.lz-cdn1.com/20220408/1246_d75b4eec/index.m3u8
+AXN,http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+CCM,http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
+CINEMAWOLRD,http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
+HITS,http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
+MYCE,http://playlist.urfan.web.id/uq2663/h/h18/01.m3u8
+TVN 电影,http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+ZEEBIOSKOP,http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
