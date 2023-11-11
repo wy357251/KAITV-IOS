@@ -6527,7 +6527,7 @@ EYE TV戏剧台,mitv://generationnexxxt.com:19806/4ff7797361d84ec2b8f08885bbe40e
 爱尔达影剧台,mitv://generationnexxxt.com:19806/24772040aff540e3a981643c1ee242ff
 亚洲剧台,mitv://generationnexxxt.com:19806/59e213eaf3b4421fa9bfa35706311450
 
-🌈KAITV彩虹頻道_118,#genre#
+🌈｜KAITV｜彩虹頻道_118,#genre#
 多拉完美,p2p://108.181.20.159:50003/5fe4450c000c918b829fca233c845311 
 香蕉,p2p://108.181.20.159:50003/60626a760005067e6f5bbecb5816771e 
 松视1,p2p://108.181.20.159:50003/5fe445280008a40682a0367c343436bb 
@@ -7459,7 +7459,7 @@ MyCamTVYoungGirls,http://live.mycamtv.com/young.m3u8
 Extasy4K,http://213.81.133.133:8080/extasy4k/index.m3u8
 ExstasyHD,http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 HustlerTV,http://78.83.191.18:8000/play/a078
-👠｜VIP欧美1_118,#genre#
+👠｜KAITV｜VIP欧美1_118,#genre#
 Playboy,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/527/index.m3u8
 Bazzers TV Europe,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/910/index.m3u8
 Blue Hustler,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/1064/index.m3u8
