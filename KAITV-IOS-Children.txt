@@ -108,4 +108,4 @@ LexBurner,http://zzy789.xyz/bili.php?id=11365
 蜡笔小新,http://zzy789.xyz/bili.php?id=10375360
 蜡笔小新欢乐多,https://epg.112114.xyz/huya/11352970
 🐯KAITV西游记,#genre#
-https://d1--cn-gotcha204-3.bilivideo.com/live-bvc/508448/live_24525719_24562415/index.m3u8?expires=1699707286&len=0&oi=3659177712&pt=web&qn=10000&trid=1007164fff26322a4911bb44c7bdcab5c08e&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha204&sign=a887884230a720f9d781fafc46ba995c&sk=6a0463198226cf2ecbbe9d034f4522aa&p2p_type=1&sl=1&free_type=0&mid=0&pp=rtmp&source=onetier&trace=20&site=67a46e362988fb7c8f7798f0cb5a1163&order=2
+西游记,https://d1--cn-gotcha204-3.bilivideo.com/live-bvc/508448/live_24525719_24562415/index.m3u8
