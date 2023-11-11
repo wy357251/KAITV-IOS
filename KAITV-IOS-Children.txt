@@ -1,3 +1,9 @@
+🐯KAITV动画片,#genre#
+动画片_100,http://epg.112114.xyz/douyu/8799435
+动画片_104,http://epg.112114.xyz/douyu/7528160
+动画片_141,http://epg.112114.xyz/douyu/8985415
+【小叮当】童年经典动画片,http://epg.112114.xyz/douyu/9445279
+动画片_525,http://tc-tct.douyucdn2.cn/dyliveflv1a/206858rtesHKjl.flv?wsAuth=874ec8068853bd13e2fa21a68f258440&token=cpn-androidmpro-0-206858-355488b41ed19088616f37e791a58fcf3679923943a09438&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 🐯动画片,#genre#
 【七龍珠改】超级赛亚人孙捂空,https://epg.112114.xyz/huya/11601966
 【Blue胖】你看得到我的腿吗,https://epg.112114.xyz/huya/11601963
