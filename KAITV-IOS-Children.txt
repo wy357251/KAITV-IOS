@@ -108,10 +108,4 @@ LexBurner,http://zzy789.xyz/bili.php?id=11365
 蜡笔小新,http://zzy789.xyz/bili.php?id=10375360
 蜡笔小新欢乐多,https://epg.112114.xyz/huya/11352970
 🐯KAITV西游记,#genre#
-西游记,http://vod.cctv.cn/cms/2018-08-10/CCTV15_2m_20180810124638599-16050_video_1-001.mp4
-西游记,https://vd3.bdstatic.com/mda-mdff1ddczmnfkv4m/720p/h264_cae/1620656958356358252/mda-mdff1ddczmnfkv4m.mp4
-西游记,https://vd3.bdstatic.com/mda-jbdqzneb2v0nxdac/sc/mda-jbdqzneb2v0nxdac.mp4
-西游记,http://txtest-xp2p.p2p.huya.com/src/1199561181026-1199561181026-5434445492840824832-2399122485508-10057-A-0-1.xs
-西游记,https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/713376/live_47298021_1601001_1500/index.m3u8
-🐯KAITV大闹天宫,#genre#
-大闹天宫,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a57c9e5e1696486e97d229a3ddb13749/850.m3u8
+https://d1--cn-gotcha204-3.bilivideo.com/live-bvc/508448/live_24525719_24562415/index.m3u8?expires=1699707286&len=0&oi=3659177712&pt=web&qn=10000&trid=1007164fff26322a4911bb44c7bdcab5c08e&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha204&sign=a887884230a720f9d781fafc46ba995c&sk=6a0463198226cf2ecbbe9d034f4522aa&p2p_type=1&sl=1&free_type=0&mid=0&pp=rtmp&source=onetier&trace=20&site=67a46e362988fb7c8f7798f0cb5a1163&order=2
